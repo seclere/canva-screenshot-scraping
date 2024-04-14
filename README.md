@@ -4,6 +4,7 @@ test repo for canva screenshot scraping. the goal is to make a repo that consoli
 last update: april 14, 2024
 
 ${\textsf{\color{red}HOW IT (CURRENTLY) WORKS}}$
+
 specifications: 
 - you do have to have tesseract and tkinter to run this
 - until i fix the pathing for tesseractdata you'll also need that...
